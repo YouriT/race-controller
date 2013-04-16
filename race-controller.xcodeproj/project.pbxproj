@@ -6,10 +6,27 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		81E0D4A3171D409A003F8CC6 /* Car.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Car.c; sourceTree = "<group>"; };
+		81E0D4A4171D409A003F8CC6 /* Car.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		81E0D4A5171D409A003F8CC6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		81E0D4A6171D409A003F8CC6 /* Race.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Race.c; sourceTree = "<group>"; };
+		81E0D4A7171D409A003F8CC6 /* Race.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Race.h; sourceTree = "<group>"; };
+		81E0D4A8171D409A003F8CC6 /* Utils.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Utils.c; sourceTree = "<group>"; };
+		81E0D4A9171D409A003F8CC6 /* Utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		81E0D49C171D4079003F8CC6 = {
 			isa = PBXGroup;
 			children = (
+				81E0D4A3171D409A003F8CC6 /* Car.c */,
+				81E0D4A4171D409A003F8CC6 /* Car.h */,
+				81E0D4A5171D409A003F8CC6 /* main.c */,
+				81E0D4A6171D409A003F8CC6 /* Race.c */,
+				81E0D4A7171D409A003F8CC6 /* Race.h */,
+				81E0D4A8171D409A003F8CC6 /* Utils.c */,
+				81E0D4A9171D409A003F8CC6 /* Utils.h */,
 			);
 			sourceTree = "<group>";
 		};
